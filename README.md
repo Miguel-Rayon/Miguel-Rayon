@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel Rayon</h1>
 <h3 align="center">I am passionate about learning to program new things</h3>
 
-- 🌱 I’m currently learning **C++, React, Java, TypeScript**
+- 🌱 I’m currently learning **C++, React, MongoDB, JavaScript, NextJS**
 
 - 📫 How to reach me **miguel.hdz.rayon@gmail.com**
 
